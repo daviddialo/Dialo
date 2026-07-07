@@ -1,0 +1,128 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-sm320px {
+  --shadow-shadows-menu: 0px 2px 6px 0px #0000004d;
+  --shadow-shadows-menu-transparent: 0px 2px 6px 0px #0000004d;
+  --shadow-border-subtle-01-inner-border-all: inset 0px 0px 0px 1px #c6c6c6;
+  --shadow-border-subtle-01-inner-border-top: inset 0px 1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-border-right: inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-border-bottom: inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-border-left: inset 1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-top-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-top-left-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset 1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-top-right-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-bottom-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-01-inner-top-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6, inset 0px 1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-02-inner-border-all: inset 0px 0px 0px 1px #e0e0e0;
+  --shadow-border-subtle-02-inner-border-top: inset 0px 1px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-border-right: inset -1px 0px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-border-bottom: inset 0px -1px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-border-left: inset 1px 0px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-top-bottom: inset 0px 1px 0px 0px #e0e0e0, inset 0px -1px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-left-right: inset 1px 0px 0px 0px #e0e0e0, inset -1px 0px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-top-left-bottom: inset 0px 1px 0px 0px #e0e0e0, inset 0px -1px 0px 0px #e0e0e0, inset 1px 0px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-top-right-bottom: inset 0px 1px 0px 0px #e0e0e0, inset 0px -1px 0px 0px #e0e0e0, inset -1px 0px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-bottom-left-right: inset 1px 0px 0px 0px #e0e0e0, inset -1px 0px 0px 0px #e0e0e0, inset 0px -1px 0px 0px #e0e0e0;
+  --shadow-border-subtle-02-inner-top-left-right: inset 1px 0px 0px 0px #e0e0e0, inset -1px 0px 0px 0px #e0e0e0, inset 0px 1px 0px 0px #e0e0e0;
+  --shadow-border-subtle-03-inner-border-all: inset 0px 0px 0px 1px #c6c6c6;
+  --shadow-border-subtle-03-inner-border-top: inset 0px 1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-border-right: inset -1px 0px 0px 0px #e0e0ec;
+  --shadow-border-subtle-03-inner-border-bottom: inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-border-left: inset 1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-top-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-top-left-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset 1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-top-right-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-bottom-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-subtle-03-inner-top-left-right: inset 1px 0px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6, inset 0px 1px 0px 0px #c6c6c6;
+  --shadow-border-strong-01-inner-border-all: inset 0px 0px 0px 1px #8d8d8d;
+  --shadow-border-strong-01-inner-border-top: inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-border-right: inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-border-bottom: inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-border-left: inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-top-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-top-left-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-top-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-bottom-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-01-inner-top-right-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-border-all: inset 0px 0px 0px 1px #8d8d8d;
+  --shadow-border-strong-02-inner-border-top: inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-border-right: inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-border-bottom: inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-border-left: inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-border-all: inset 0px 0px 0px 1px #8d8d8d;
+  --shadow-focus-inner-border-all: inset 0px 0px 0px 2px #0f62fe;
+  --shadow-focus-inverse-inner-border-all: inset 0px 0px 0px 2px #ffffff;
+  --shadow-focus-inverse-outer-border-all: 0px 0px 0px 2px #ffffff;
+  --shadow-border-interactive-inner-border-all: inset 0px 0px 0px 3px #0f62fe;
+  --shadow-border-interactive-inner-border-top: inset 0px 3px 0px 0px #0f62fe;
+  --shadow-border-interactive-inner-border-right: inset -3px 0px 0px 0px #0f62fe;
+  --shadow-border-interactive-inner-border-bottom: inset 0px -3px 0px 0px #0f62fe;
+  --shadow-border-interactive-inner-border-left: inset 3px 0px 0px 0px #0f62fe;
+  --shadow-border-interactive-outer-border-all: 0px 0px 0px 3px #0f62fe;
+  --shadow-border-interactive-outer-border-top: 0px -3px 0px 0px #0f62fe;
+  --shadow-border-interactive-outer-border-right: 3px 0px 0px 0px #0f62fe;
+  --shadow-border-interactive-outer-border-bottom: 0px 3px 0px 0px #0f62fe;
+  --shadow-border-interactive-outer-border-left: -3px 0px 0px 0px #0f62fe;
+  --shadow-selected-inverse-inner-border-all: inset 0px 0px 0px 3px #0f62fe;
+  --shadow-selected-inverse-inner-border-top: inset 0px 3px 0px 0px #0f62fe;
+  --shadow-selected-inverse-inner-border-right: inset -3px 0px 0px 0px #0f62fe;
+  --shadow-selected-inverse-inner-border-bottom: inset 0px -3px 0px 0px #0f62fe;
+  --shadow-selected-inverse-inner-border-left: inset 3px 0px 0px 0px #0f62fe;
+  --shadow-selected-inverse-outer-border-all: 0px 0px 0px 3px #0f62fe;
+  --shadow-selected-inverse-outer-border-top: 0px -3px 0px 0px #0f62fe;
+  --shadow-selected-inverse-outer-border-right: 3px 0px 0px 0px #0f62fe;
+  --shadow-selected-inverse-outer-border-bottom: 0px 3px 0px 0px #0f62fe;
+  --shadow-selected-inverse-outer-border-left: -3px 0px 0px 0px #0f62fe;
+  --shadow-support-error-inner-border-all: inset 0px 0px 0px 2px #da1e28;
+  --shadow-support-error-outer-border-all: 0px 0px 0px 2px #da1e28;
+  --shadow-border-disabled-inner-top-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6;
+  --shadow-border-disabled-inner-top-left-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset 1px 0px 0px 0px #c6c6c6;
+  --shadow-border-disabled-inner-top-right-bottom: inset 0px 1px 0px 0px #c6c6c6, inset 0px -1px 0px 0px #c6c6c6, inset -1px 0px 0px 0px #c6c6c6;
+  --shadow-border-strong-03-inner-border-top: inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-border-right: inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-border-bottom: inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-border-left: inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-top-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-top-left-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-top-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-bottom-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-02-inner-top-right-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-top-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-top-left-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset 1px 0px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-top-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px 1px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-bottom-left-right: inset 1px 0px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d;
+  --shadow-border-strong-03-inner-top-right-bottom: inset 0px 1px 0px 0px #8d8d8d, inset 0px -1px 0px 0px #8d8d8d, inset -1px 0px 0px 0px #8d8d8d;
+  --shadow-slug-callout-shadow-outer: -60px 80px 60px -45px #00000040, -40px 30px 100px -25px #002d9c40;
+  --shadow-ai-callout-shadow: -40px 40px 40px -24px rgba(var(--rgb-color-ai-callout-ai-callout-shadow-first-color), 0.04), -40px 30px 100px -24px rgba(var(--rgb-color-ai-callout-ai-callout-shadow-second-color), 0.06);
+  --shadow-default-ai-drop-shadow-light: 0px 4px 8px 0px rgba(var(--rgb-color-ai-layer-ai-drop-shadow), 0.1);
+  --shadow-default-ai-drop-shadow-dark: 0px 23px 40px -24px rgba(var(--rgb-color-ai-layer-ai-drop-shadow), 0.1);
+  /* The inner shadow used as part of the AI layer in the light theme */
+  --shadow-default-ai-inner-shadow-light: inset 0px -80px 70px -65px #0f62fe1a;
+  /* The inner shadow used as part of the AI layer in the dark theme */
+  --shadow-default-ai-inner-shadow-dark: inset 0px -80px 70px -65px #4589ff29;
+  /* Combined dropdown shadows for callouts in light theme */
+  --shadow-default-ai-callout-shadow-light: -40px 30px 100px -24px #0043ce0f, -40px 40px 40px -24px #0000000a;
+  /* Combined dropdown shadows for callouts in light theme */
+  --shadow-default-ai-callout-shadow-dark: -56px 64px 64px -24px #00000014, -40px 44px 60px -24px #0000001f;
+  --shadow-transparent-ai-drop-shadow-light: 0px 4px 8px 0px rgba(var(--rgb-color-ai-layer-ai-drop-shadow), 0.1);
+  --shadow-transparent-ai-drop-shadow-dark: 0px 23px 40px -24px rgba(var(--rgb-color-ai-layer-ai-drop-shadow), 0.1);
+  /* The inner shadow used as part of the AI layer in the light theme */
+  --shadow-transparent-ai-inner-shadow-light: inset 0px -80px 70px -65px #0f62fe1a;
+  /* The inner shadow used as part of the AI layer in the dark theme */
+  --shadow-transparent-ai-inner-shadow-dark: inset 0px -80px 70px -65px #4589ff29;
+  /* Combined dropdown shadows for callouts in light theme */
+  --shadow-transparent-ai-callout-shadow-light: -40px 30px 100px -24px #0043ce0f, -40px 40px 40px -24px #0000000a;
+  /* Combined dropdown shadows for callouts in light theme */
+  --shadow-transparent-ai-callout-shadow-dark: -56px 64px 64px -24px #00000014, -40px 44px 60px -24px #0000001f;
+  --shadow-deprecated-ai-shadow-dark: 0px 23px 40px -24px #00000047;
+  --shadow-deprecated-ai-shadow-light: 0px 4px 8px 0px #0f62fe1a;
+  --shadow-deprecated-ai-shadow-secondary: 0px 15px 10px -15px #00000059;
+}

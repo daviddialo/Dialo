@@ -1,0 +1,75 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-lgxl10561312px {
+  --string-auto-layout-direction-vertical-direction-vertical: var(--string-auto-layout-direction-vertical);
+  --string-auto-layout-direction-horizontal-direction-horizontal: var(--string-auto-layout-direction-horizontal);
+  --string-typography-fluid-heading-font-family: "String value";
+  --string-typography-fluid-heading-03-weight: var(--font-weight-typography-fluid-heading-03-weight);
+  --string-typography-fluid-heading-04-weight: var(--string-typography-fluid-heading-04-weight);
+  --string-typography-fluid-heading-05-weight: var(--string-typography-fluid-heading-05-weight);
+  --string-typography-fluid-heading-06-weight: var(--string-typography-fluid-heading-06-weight);
+  --string-typography-fluid-display-font-family: "String value";
+  --string-typography-fluid-display-01-weight: var(--string-typography-fluid-display-01-weight);
+  --string-typography-fluid-display-02-weight: var(--string-typography-fluid-display-02-weight);
+  --string-typography-fluid-display-03-weight: var(--string-typography-fluid-display-03-weight);
+  --string-typography-fluid-display-04-weight: var(--string-typography-fluid-display-04-weight);
+  --string-typography-fluid-paragraph-font-family: "String value";
+  --string-typography-fluid-paragraph-01-weight: var(--string-typography-fluid-paragraph-01-weight);
+  --string-typography-fluid-quotation-font-family: "String value";
+  --string-typography-fluid-quotation-01-weight: var(--string-typography-fluid-quotation-01-weight);
+  --string-typography-fluid-quotation-02-weight: var(--string-typography-fluid-quotation-02-weight);
+  --string-breakpoint: var(--string-breakpoint);
+  --string-breakpoint-sm-md: var(--string-breakpoint-sm-md);
+  --string-breakpoint-md-lg: var(--string-breakpoint-md-lg);
+  --string-breakpoint-md-xl: var(--string-breakpoint-md-xl);
+  --string-breakpoint-lg-max: var(--string-breakpoint-lg-max);
+  --string-breakpoint-xl-max: var(--string-breakpoint-xl-max);
+  --string-breakpoint-sm-md-lg-max: var(--string-breakpoint-sm-md-lg-max);
+  --string-breakpoint-sm-md-xl-max: var(--string-breakpoint-sm-md-xl-max);
+  --string-auto-layout-direction-vertical-direction-sm-md-vertical: var(--string-breakpoint-sm-md);
+  --string-auto-layout-direction-vertical-direction-lg-max-2: var(--string-breakpoint-lg-max);
+  --string-auto-layout-direction-vertical-direction-xl-max-2: var(--string-breakpoint-xl-max);
+  --string-auto-layout-direction-vertical-direction-sm-md-lg-max-2: var(--string-breakpoint-sm-md-lg-max);
+  --string-auto-layout-direction-vertical-direction-sm-md-xl-max-2: var(--string-breakpoint-sm-md-xl-max);
+  --string-auto-layout-direction-vertical-direction-reverse: "String value";
+  --string-auto-layout-direction-horizontal-direction-sm-md-3: var(--string-breakpoint-sm-md);
+  --string-auto-layout-direction-horizontal-direction-lg-max-3: var(--string-breakpoint-lg-max);
+  --string-auto-layout-direction-horizontal-direction-xl-max-3: var(--string-breakpoint-xl-max);
+  --string-auto-layout-direction-horizontal-direction-sm-md-lg-max-3: var(--string-breakpoint-sm-md-lg-max);
+  --string-auto-layout-direction-horizontal-direction-sm-md-xl-max-3: var(--string-breakpoint-sm-md-xl-max);
+  --string-auto-layout-direction-horizontal-direction-reverse: "String value";
+  --string-aspect-ratio: "3:2";
+  --string-layer-name: "Background";
+  --string-field-name: "Field 01";
+  --string-border-subtle-name: "border-subtle-00";
+  --string-border-strong-name: "border-strong-01";
+  --string-auto-layout-direction-vertical: "Vertical";
+  --string-auto-layout-direction-horizontal: "Horizontal";
+  --string-typography-fluid-heading-04-weight: "Regular";
+  --string-typography-fluid-heading-05-weight: "Light";
+  --string-typography-fluid-heading-06-weight: "SemiBold";
+  --string-typography-fluid-display-01-weight: "Light";
+  --string-typography-fluid-display-02-weight: "SemiBold";
+  --string-typography-fluid-display-03-weight: "Light";
+  --string-typography-fluid-display-04-weight: "Light";
+  --string-typography-fluid-paragraph-01-weight: "Light";
+  --string-typography-fluid-quotation-01-weight: "Regular";
+  --string-typography-fluid-quotation-02-weight: "Light";
+  --string-breakpoint: "LG (1056px)";
+  --string-breakpoint-sm-md: "LG (1056px)";
+  --string-breakpoint-md-lg: "MD–LG (672–1056px)";
+  --string-breakpoint-md-xl: "MD–XL (672–1312px)";
+  --string-breakpoint-lg-max: "LG–Max (1056–1584px+)";
+  --string-breakpoint-xl-max: "LG (1056px)";
+  --string-breakpoint-sm-md-lg-max: "LG–Max (1056–1584px+)";
+  --string-breakpoint-sm-md-xl-max: "LG (1056px)";
+  --string-pagination-data-table-pagination-size: "Large";
+  --string-toolbar-data-table-toolbar-size: "Large";
+  --string-batch-actions-data-table-batch-actions-size: "Large";
+  --string-pagination-data-table-pagination-size: "Small";
+  --string-toolbar-data-table-toolbar-size: "Small";
+  --string-batch-actions-data-table-batch-actions-size: "Small";
+}

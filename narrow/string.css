@@ -1,0 +1,75 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-narrow {
+  --string-auto-layout-direction-vertical-direction-vertical: "Vertical";
+  --string-auto-layout-direction-horizontal-direction-horizontal: "Horizontal";
+  --string-typography-fluid-heading-font-family: "IBM Plex Sans";
+  --string-typography-fluid-heading-03-weight: "Regular";
+  --string-typography-fluid-heading-04-weight: "Regular";
+  --string-typography-fluid-heading-05-weight: "Regular";
+  --string-typography-fluid-heading-06-weight: "SemiBold";
+  --string-typography-fluid-display-font-family: "String value";
+  --string-typography-fluid-display-01-weight: "Light";
+  --string-typography-fluid-display-02-weight: "SemiBold";
+  --string-typography-fluid-display-03-weight: "Light";
+  --string-typography-fluid-display-04-weight: "Light";
+  --string-typography-fluid-paragraph-font-family: "String value";
+  --string-typography-fluid-paragraph-01-weight: "Light";
+  --string-typography-fluid-quotation-font-family: "String value";
+  --string-typography-fluid-quotation-01-weight: "Regular";
+  --string-typography-fluid-quotation-02-weight: "Light";
+  --string-breakpoint: "SM (320px)";
+  --string-breakpoint-sm-md: "SM–MD (320–672px)";
+  --string-breakpoint-md-lg: "SM (320px)";
+  --string-breakpoint-md-xl: "SM (320px)";
+  --string-breakpoint-lg-max: "SM (320px)";
+  --string-breakpoint-xl-max: "SM (320px)";
+  --string-breakpoint-sm-md-lg-max: "SM–MD (320–672px)";
+  --string-breakpoint-sm-md-xl-max: "SM–MD (320–672px)";
+  --string-auto-layout-direction-vertical-direction-sm-md-vertical: "Vertical";
+  --string-auto-layout-direction-vertical-direction-lg-max-2: "Horizontal";
+  --string-auto-layout-direction-vertical-direction-xl-max-2: "Horizontal";
+  --string-auto-layout-direction-vertical-direction-sm-md-lg-max-2: "Vertical";
+  --string-auto-layout-direction-vertical-direction-sm-md-xl-max-2: "Vertical";
+  --string-auto-layout-direction-vertical-direction-reverse: "String value";
+  --string-auto-layout-direction-horizontal-direction-sm-md-3: "Horizontal";
+  --string-auto-layout-direction-horizontal-direction-lg-max-3: "Horizontal";
+  --string-auto-layout-direction-horizontal-direction-xl-max-3: "Horizontal";
+  --string-auto-layout-direction-horizontal-direction-sm-md-lg-max-3: "Horizontal";
+  --string-auto-layout-direction-horizontal-direction-sm-md-xl-max-3: "Horizontal";
+  --string-auto-layout-direction-horizontal-direction-reverse: "String value";
+  --string-aspect-ratio: "None";
+  --string-layer-name: "Background";
+  --string-field-name: "Field 01";
+  --string-border-subtle-name: "border-subtle-00";
+  --string-border-strong-name: "border-strong-01";
+  --string-auto-layout-direction-vertical: "Vertical";
+  --string-auto-layout-direction-horizontal: "Horizontal";
+  --string-typography-fluid-heading-04-weight: "Regular";
+  --string-typography-fluid-heading-05-weight: "Light";
+  --string-typography-fluid-heading-06-weight: "SemiBold";
+  --string-typography-fluid-display-01-weight: "Light";
+  --string-typography-fluid-display-02-weight: "SemiBold";
+  --string-typography-fluid-display-03-weight: "Light";
+  --string-typography-fluid-display-04-weight: "Light";
+  --string-typography-fluid-paragraph-01-weight: "Light";
+  --string-typography-fluid-quotation-01-weight: "Regular";
+  --string-typography-fluid-quotation-02-weight: "Light";
+  --string-breakpoint: "LG (1056px)";
+  --string-breakpoint-sm-md: "LG (1056px)";
+  --string-breakpoint-md-lg: "MD–LG (672–1056px)";
+  --string-breakpoint-md-xl: "MD–XL (672–1312px)";
+  --string-breakpoint-lg-max: "LG–Max (1056–1584px+)";
+  --string-breakpoint-xl-max: "LG (1056px)";
+  --string-breakpoint-sm-md-lg-max: "LG–Max (1056–1584px+)";
+  --string-breakpoint-sm-md-xl-max: "LG (1056px)";
+  --string-pagination-data-table-pagination-size: "Large";
+  --string-toolbar-data-table-toolbar-size: "Large";
+  --string-batch-actions-data-table-batch-actions-size: "Large";
+  --string-pagination-data-table-pagination-size: "Small";
+  --string-toolbar-data-table-toolbar-size: "Small";
+  --string-batch-actions-data-table-batch-actions-size: "Small";
+}
