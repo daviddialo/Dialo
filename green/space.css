@@ -1,0 +1,12 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-green {
+  --space-gutter: var(--dimension-wide-grid-gutter);
+  --space-left-end-margin: var(--dimension-wide-grid-left-end-margin);
+  --space-right-end-margin: var(--dimension-wide-grid-right-end-margin);
+  --space-left-end-margin: var(--space-left-end-margin);
+  --space-right-end-margin: var(--space-right-end-margin);
+}

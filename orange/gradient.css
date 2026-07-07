@@ -1,0 +1,66 @@
+/**
+ * This file was generated automatically by Supernova.io and should not be changed manually.
+ * To modify the format or content of this file, please contact your design system team. 
+ */
+
+.theme-orange {
+  --gradient-ai-aura-sm-light: linear-gradient(180deg, #ffffff00 0%, #4589ff29 100%);
+  --gradient-ai-aura-sm-dark: linear-gradient(180deg, #4589ff00 0%, #4589ff29 100%);
+  /* Aura used across AI components in the background. */
+  --gradient-aura-ai-aura-dark: linear-gradient(0deg, #4589ff 0%, #00000000 100%);
+  /* Aura used across AI components in the background. */
+  --gradient-aura-ai-aura-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  /* Aura used for highlighting partial AI in inputs. Gradient direction is bottom to top. */
+  --gradient-aura-ai-aura-sm-dark: linear-gradient(0deg, #4589ff 0.31%, #00000000 100%);
+  /* Aura used for highlighting partial AI in inputs. Gradient direction is bottom to top. */
+  --gradient-aura-ai-aura-sm-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  /* Hover state for the linear aura on inputs. */
+  --gradient-aura-ai-aura-hover-dark: linear-gradient(180deg, #00000000 0%, #4589ff 100%);
+  /* Hover state for the linear aura on inputs. */
+  --gradient-aura-ai-aura-hover-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  /* Aura used for highlighting partial AI in data table columns or rows. Gradient direction is horizontal. */
+  --gradient-aura-ai-aura-table-dark: linear-gradient(180deg, #4589ff 0%, #00000000 100%);
+  /* Aura used for highlighting partial AI in data table columns or rows. Gradient direction is horizontal. */
+  --gradient-aura-ai-aura-table-light: linear-gradient(0deg, #ffffff00 0%, #4589ff 100%);
+  /* Hover for AI data table column. */
+  --gradient-aura-ai-aura-table-hover-dark: linear-gradient(180deg, #4589ff 0%, #00000000 100%);
+  /* Hover for AI data table column. */
+  --gradient-aura-ai-aura-table-hover-light: linear-gradient(180deg, #4589ff 0%, #4589ff00 100%);
+  --gradient-aura-deprecated-ai-aura-tint-light: linear-gradient(-0.22918189575410963deg, #ffffff 0%, #434b82 100%);
+  /* AI border with a gradient for larger components. */
+  --gradient-border-ai-border-dark: linear-gradient(0deg, #4589ff 0%, #a6c8ff5c 100%);
+  /* AI border with a gradient for larger components. */
+  --gradient-border-ai-border-light: linear-gradient(0deg, #78a9ff 0%, #a6c8ffa3 100%);
+  --gradient-border-deprecated-ai-border-table-dark: linear-gradient(180deg, #4589ff 0%, #4589ff00 100%);
+  --gradient-border-deprecated-ai-border-table-light: linear-gradient(180deg, #78a9ff 0%, #78a9ff00 100%);
+  --gradient-ai-layer-background-dark: linear-gradient(180deg, #00000000 0%, #4589ff 100%);
+  --gradient-ai-layer-background-hover-dark: linear-gradient(0deg, #4589ff 0%, #29292900 100%);
+  --gradient-ai-layer-background-selected-hover-dark: linear-gradient(180deg, #33333300 0%, #4589ff 100%);
+  --gradient-ai-layer-background-active-dark: linear-gradient(0deg, #4589ff 0.35%, #00000000 99.88%);
+  --gradient-ai-layer-background-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-background-selected-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-background-active-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-background-selected-dark: linear-gradient(180deg, #00000000 0%, #4589ff 100%);
+  --gradient-ai-layer-background-hover-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-background-selected-hover-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-01-layer-01-dark: linear-gradient(180deg, #00000000 0%, #4589ff 100%);
+  --gradient-ai-layer-01-layer-hover-01-dark: linear-gradient(0deg, #4589ff 0%, #33333300 100%);
+  --gradient-ai-layer-01-layer-selected-01-dark: linear-gradient(0deg, #4589ff 0%, #00000000 100%);
+  --gradient-ai-layer-01-layer-selected-hover-01-dark: linear-gradient(0deg, #4589ff 0%, #00000000 100%);
+  --gradient-ai-layer-01-layer-active-01-dark: linear-gradient(0deg, #4589ff 0%, #00000000 100%);
+  --gradient-ai-layer-01-layer-01-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-01-layer-hover-01-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-01-layer-selected-01-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-01-layer-selected-hover-01-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-01-layer-active-01-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-02-layer-02-dark: linear-gradient(180deg, #00000000 0%, #4589ff 100%);
+  --gradient-ai-layer-02-layer-hover-02-dark: linear-gradient(0deg, #4589ff 0%, #39393900 100%);
+  --gradient-ai-layer-02-layer-selected-02-dark: linear-gradient(0deg, #4589ff 0%, #52525200 100%);
+  --gradient-ai-layer-02-layer-selected-hover-02-dark: linear-gradient(0deg, #4589ff 0.29%, #63636300 100%);
+  --gradient-ai-layer-02-layer-active-02-dark: linear-gradient(0deg, #4589ff 0%, #00000000 100%);
+  --gradient-ai-layer-02-layer-02-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-02-layer-hover-02-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+  --gradient-ai-layer-02-layer-selected-02-light: linear-gradient(0deg, #4589ff 0%, #ffffff 100%);
+  --gradient-ai-layer-02-layer-selected-hover-02-light: linear-gradient(180deg, #ffffff00 0%, #4589ff 100%);
+  --gradient-ai-layer-02-layer-active-02-light: linear-gradient(0deg, #4589ff 0%, #ffffff00 100%);
+}
